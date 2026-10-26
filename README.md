@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG-Enhanced AI-Driven Security Operations Center
 
 This repository contains the initial setup for a final-year BTech project. Stage 1 provides only a FastAPI backend health endpoint and a React + Vite frontend confirmation page.
@@ -809,3 +810,7 @@ Vite prints the local URL (normally http://localhost:5173). Open it in a browser
 python -m pytest tests
 ```
 
+=======
+# AI-SOC-RAG
+Developed a machine learning-based network attack detection platform using a Random Forest model, achieving 99.83% accuracy and 90.80% macro F1 across 504K CIC-IDS2017 records. 
+>>>>>>> origin/main/main
